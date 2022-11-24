@@ -1,6 +1,7 @@
 This project is made as a practice for Frontend Mentor challenges. Used React and Tailwind css. 
 # live: https://fmchallenge1nikola93.netlify.app/
-![Challenge-1](https://user-images.githubusercontent.com/95870159/203813399-2cf6b650-7be6-4e5f-9df6-8b717d0f0f31.png)
+![Challenge-1](https://user-images.githubusercontent.com/95870159/203815059-bc4bf7a8-6eef-43e9-aa3f-331d83ba9fa8.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
