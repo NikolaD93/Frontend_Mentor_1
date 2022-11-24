@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+This project is made as a practice for Frontend Mentor challenges. Used React and Tailwind css. 
+# live: https://fmchallenge1nikola93.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
