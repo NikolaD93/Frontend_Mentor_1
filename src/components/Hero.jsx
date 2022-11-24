@@ -31,7 +31,7 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      <div className="right bg-veryDarkBlue px-4 py-6 h-[520px] sm:basis-1/3 sm:px-6 sm:py-10 sm:h-[580px]">
+      <div className="right bg-veryDarkBlue px-4 py-6 sm:basis-1/3 sm:px-6 sm:py-10">
         <div>
           <h2 className="text-5xl font-bold text-softOrange">New</h2>
           <h4 className="text-2xl text-offWhite font-bold mt-8 hover:text-softOrange cursor-pointer">
