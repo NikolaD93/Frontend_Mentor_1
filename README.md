@@ -1,5 +1,12 @@
 This project is made as a practice for Frontend Mentor challenges. Used React and Tailwind css. 
-# live: https://fmchallenge1nikola93.netlify.app/
+
+Your users should be able to:
+
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+
+# [Live Website Preview](https://fmchallenge1nikola93.netlify.app).
+ 
 ![Challenge-1](https://user-images.githubusercontent.com/95870159/203815059-bc4bf7a8-6eef-43e9-aa3f-331d83ba9fa8.png)
 
 
